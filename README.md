@@ -6,9 +6,7 @@
 
 This repository is kept for reference only. Below is the only video I have of it working:
 
-<video src="Video.mp4" controls width="800">
-  Your browser does not support the video tag. [Download the video](Video.mp4) instead.
-</video>
+[Link](https://youtu.be/DGHFX8gr7Lc)
 
 ---
 
