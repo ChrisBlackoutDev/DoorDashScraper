@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Cookies and sensitive data
+cookies.pkl
+*.pkl
+
+# Google credentials - DO NOT COMMIT
+*ardent-anthem*.json
+*-credentials.json
+*service-account*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
