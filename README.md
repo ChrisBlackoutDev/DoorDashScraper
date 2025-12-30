@@ -6,8 +6,7 @@
 
 This repository is kept for reference only. Below is the only video I have of it working:
 
-[Link](https://youtu.be/DGHFX8gr7Lc)
-
+[![Video of DoorDash Bot working](https://img.youtube.com/vi/DGHFX8gr7Lc/maxresdefault.jpg)](https://youtu.be/DGHFX8gr7Lc)
 ---
 
 A Python bot that scrapes menu items and modifiers from DoorDash and uploads them to Google Sheets.
