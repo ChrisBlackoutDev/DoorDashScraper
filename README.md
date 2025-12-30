@@ -2,7 +2,7 @@
 
 ## ⚠️ DEPRECATED (2024)
 
-**This project is DEPRECATED as of 2024. The DoorDash website has changed significantly, and this bot no longer works with the current site structure.**
+**This project is DEPRECATED as of 2025. The DoorDash website has changed significantly, and this bot no longer works with the current site structure.**
 
 This repository is kept for reference only. Below is the only video I have of it working:
 
